@@ -147,7 +147,7 @@ package main {
         +getCollectionInitializeDate()
         +getGovernors()
         +addToCollection(City city)
-        +updateCollection(Integer var1, City var2)
+        +updateCollection(Integer id, City city)
         +removeElementsCollection(List<Integer> citiesIds)
         +removeElementCollection(Integer id)
         +clearCollection()
